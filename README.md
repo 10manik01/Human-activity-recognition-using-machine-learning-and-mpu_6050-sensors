@@ -62,7 +62,8 @@ The game responds to classified actions—jump, squat, run—triggering the in-g
 
 ## Setup Instructions
 
-# Requirements
+**Requirements**
+
 Unity (2021 or later)
 
 Python 3.8+
@@ -73,10 +74,11 @@ MPU6050 Sensors ×3
 
 USB cable to connect microcontroller to PC
 
-# Install dependencies
+**Install dependencies**
+
 pip install pandas numpy matplotlib scikit-learn pyserial
 
-# Steps
+**Steps**
 
 1.Connect sensors to microcontroller.
 

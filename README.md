@@ -11,7 +11,8 @@
 ---
 
 ## System Architecture
-# How it works?
+
+**How it works?**
 The sensors capture 6-axis motion data (accelerometer + gyroscope).
 
 Data is classified in real-time using an SVM model.

@@ -3,14 +3,14 @@
 > FitPlay is an interactive exergame that uses real-time human activity recognition (HAR) to create an immersive fitness gaming experience. The game encourages physical exercise by mimicking activities such as jogging, squatting, jumping, and standing, using data from wearable motion sensors i.e. mpu_6050.
 ---
 
-## 📸 Game Preview
+## Game Preview
 **FitPlay** combines motion sensing and machine learning to create an engaging fitness game. By performing real-world actions like jumping, squatting, or jogging, players control an in-game avatar—promoting health while having fun.
 
 <img src="assets/idle.png" alt="FitPlay Gameplay" width="700"/>   <img src="assets/run.png" alt="FitPlay Gameplay" width="700"/>
 
 ---
 
-## 🖼️ System Architecture
+## System Architecture
 # How it works?
 The sensors capture 6-axis motion data (accelerometer + gyroscope).
 
@@ -23,7 +23,7 @@ The game responds to classified actions—jump, squat, run—triggering the in-g
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Component | Tool |
 |----------|------|
@@ -33,7 +33,7 @@ The game responds to classified actions—jump, squat, run—triggering the in-g
 
 ---
 
-## 🦾 Activities Recognized
+## Activities Recognized
 
 - 🏃‍♂️ Jogging  
 - 🧍 Standing  
@@ -42,7 +42,7 @@ The game responds to classified actions—jump, squat, run—triggering the in-g
 
 ---
 
-## 👣 Circuit Diagram
+## Circuit Diagram
 
 <img src="assets/ckt diagram.png" alt="Sensor Setup" width="600"/>
 
@@ -50,7 +50,7 @@ The game responds to classified actions—jump, squat, run—triggering the in-g
 
 ---
 
-## 📊 Classification Visualization
+## Classification Visualization
 
 <img src="assets/prediction.png" alt="Activity Classification Graph" width="700"/>  <img src="assets/learning curve.png" alt="Activity Classification Graph" width="700"/> <img src="assets/confusion matrix.png" alt="Activity Classification Graph" width="700"/>
 
@@ -58,7 +58,7 @@ The game responds to classified actions—jump, squat, run—triggering the in-g
 
 ---
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 # Requirements
 Unity (2021 or later)

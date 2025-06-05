@@ -60,9 +60,21 @@ The game responds to classified actions—jump, squat, run—triggering the in-g
 
 ## 🔧 Setup Instructions
 
-```bash
+# Requirements
+Unity (2021 or later)
+
+Python 3.8+
+
+Microcontroller (e.g., Arduino Leonardo or Pro Micro with USB HID support)
+
+MPU6050 Sensors ×3
+
+USB cable to connect microcontroller to PC
+
 # Install dependencies
 pip install pandas numpy matplotlib scikit-learn pyserial
+
+# Steps
 
 1.Connect sensors to microcontroller.
 
@@ -75,3 +87,35 @@ pip install pandas numpy matplotlib scikit-learn pyserial
 5.Launch Unity and link it to your Python classifier(modify the data_collection.py inserting your trained model for real time classification).
 
 6.Start the game and move to play!
+
+---
+
+## Contributions
+Contributions are welcome! Feel free to:
+
+Open an issue
+
+Fork the repo
+
+Submit a pull request
+
+Let’s make fitness fun together.
+
+---
+
+## Author
+Manik Syangtan
+📍 Nepal
+🎓 Electronics, Communication & IT Engineer
+🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/maniksyangtan)
+
+
+---
+
+## License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+
+

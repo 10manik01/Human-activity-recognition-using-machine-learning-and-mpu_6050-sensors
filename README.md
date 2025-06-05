@@ -52,7 +52,9 @@ The game responds to classified actions—jump, squat, run—triggering the in-g
 
 ## 📊 Classification Visualization
 
-<img src="assets/prediction.png" alt="Activity Classification Graph" width="700"/>
+<img src="assets/prediction.png" alt="Activity Classification Graph" width="700"/>  <img src="assets/learning curve.png" alt="Activity Classification Graph" width="700"/> <img src="assets/confusion matrix.png" alt="Activity Classification Graph" width="700"/>
+
+
 
 ---
 

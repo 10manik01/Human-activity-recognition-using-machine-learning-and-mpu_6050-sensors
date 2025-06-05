@@ -1,4 +1,4 @@
-### 🎮FitPlay - Human Activity Recognition Using Machine Learning and mpu_6050 Sensors
+### 🎮FitPlay -  SENSOR-BASED EXERCISE RECOGNITION USING MACHINE LEARNING FOR REAL-TIME EXERGAMING
 
 > FitPlay is an interactive exergame that uses real-time human activity recognition (HAR) to create an immersive fitness gaming experience. The game encourages physical exercise by mimicking activities such as jogging, squatting, jumping, and standing, using data from wearable motion sensors i.e. mpu_6050.
 ---

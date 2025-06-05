@@ -44,7 +44,7 @@ The game responds to classified actions—jump, squat, run—triggering the in-g
 
 ## 👣 Sensor Placement
 
-<img src="assets/sensor-setup.png" alt="Sensor Setup" width="600"/>
+<img src="assets/ckt diagram.png" alt="Sensor Setup" width="600"/>
 
 > 3 MPU6050 sensors: one on the chest and one on each ankle.
 
@@ -52,7 +52,7 @@ The game responds to classified actions—jump, squat, run—triggering the in-g
 
 ## 📊 Classification Visualization
 
-<img src="assets/activity-classification.png" alt="Activity Classification Graph" width="700"/>
+<img src="assets/prediction.png" alt="Activity Classification Graph" width="700"/>
 
 ---
 

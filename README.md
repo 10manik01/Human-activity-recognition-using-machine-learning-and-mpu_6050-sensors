@@ -42,7 +42,7 @@ The game responds to classified actions—jump, squat, run—triggering the in-g
 
 ---
 
-## 👣 Sensor Placement
+## 👣 Circuit Diagram
 
 <img src="assets/ckt diagram.png" alt="Sensor Setup" width="600"/>
 

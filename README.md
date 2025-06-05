@@ -4,20 +4,22 @@
 ---
 
 ## 📸 Game Preview
+**FitPlay** combines motion sensing and machine learning to create an engaging fitness game. By performing real-world actions like jumping, squatting, or jogging, players control an in-game avatar—promoting health while having fun.
 
 <img src="assets/idle.png" alt="FitPlay Gameplay" width="700"/>   <img src="assets/run.png" alt="FitPlay Gameplay" width="700"/>
 
 ---
 
-## 🧠 Overview
-
-**FitPlay** combines motion sensing and machine learning to create an engaging fitness game. By performing real-world actions like jumping, squatting, or jogging, players control an in-game avatar—promoting health while having fun.
-
----
-
 ## 🖼️ System Architecture
+# How it works?
+The sensors capture 6-axis motion data (accelerometer + gyroscope).
 
-<img src="assets/fitplay-architecture.png" alt="System Architecture" width="700"/>
+Data is classified in real-time using an SVM model.
+
+The game responds to classified actions—jump, squat, run—triggering the in-game avatar.
+
+
+<img src="assets/system arch.png" alt="System Architecture" width="700"/>
 
 ---
 

@@ -5,7 +5,7 @@
 
 ## 📸 Game Preview
 
-<img src="assets/screenshot-gameplay.png" alt="FitPlay Gameplay" width="700"/>
+<img src="assets/idle.png" alt="FitPlay Gameplay" width="700"/>   <img src="assets/run.png" alt="FitPlay Gameplay" width="700"/>
 
 ---
 

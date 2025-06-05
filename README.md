@@ -63,3 +63,15 @@ The game responds to classified actions—jump, squat, run—triggering the in-g
 ```bash
 # Install dependencies
 pip install pandas numpy matplotlib scikit-learn pyserial
+
+1.Connect sensors to microcontroller.
+
+2.Upload firmware to microcontroller.
+
+3.Collect and label data using Python scripts.
+
+4.Train SVM model.
+
+5.Launch Unity and link it to your Python classifier.
+
+6.Start the game and move to play!

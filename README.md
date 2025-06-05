@@ -68,10 +68,10 @@ pip install pandas numpy matplotlib scikit-learn pyserial
 
 2.Upload firmware to microcontroller.
 
-3.Collect and label data using Python scripts.
+3.Collect and label data using Python scripts i.e. data_collection.py And prepare Datasets for the model.
 
 4.Train SVM model.
 
-5.Launch Unity and link it to your Python classifier.
+5.Launch Unity and link it to your Python classifier(modify the data_collection.py inserting your trained model for real time classification).
 
 6.Start the game and move to play!
